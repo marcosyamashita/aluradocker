@@ -15,4 +15,4 @@ ENTRYPOINT [ "npm", "start" ]
 EXPOSE 3000
 
 
-#após esses procedimentos e necessario buildar a imagem: "docker build -f dockerfile -t marcosy/node"
+#após esses procedimentos e necessario buildar a imagem: "docker build -f dockerfile -t marcosy/node ."
